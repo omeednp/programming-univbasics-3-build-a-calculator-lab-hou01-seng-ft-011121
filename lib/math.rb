@@ -7,7 +7,7 @@ end
 
 def subtraction(num1, num2)
 
-  difference = num2 - num1
+  difference = num1 - num2
   p difference
 
 end
@@ -28,7 +28,7 @@ end
 
 def modulo(num1, num2)
 
-  modulus = num2%num1
+  modulus = num1%num2
   p modulus
   
 end
